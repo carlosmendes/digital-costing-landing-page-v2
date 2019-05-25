@@ -1693,6 +1693,10 @@ input, select, textarea {
 
 /* Sections/Articles */
 
+  article {
+    text-align: left;
+  }
+
 	section, article {
 		margin-bottom: 3em;
 	}
@@ -2429,6 +2433,7 @@ input, select, textarea {
         font-size: 3.5em;
         font-weight: 100;
         color: #fff;
+        line-height: 1.1;
       }
 
       #problem-banner header .byline {
