@@ -3178,6 +3178,14 @@ input, select, textarea {
 
 	}
 
+.big-margin-top {
+  margin-top: 40px;
+}
+
 .small-margin-top {
   margin-top: 20px;
+}
+
+.text-right {
+  text-align: right;
 }
